@@ -1,0 +1,26 @@
+.ese {
+    background-color: #f3b989;
+  }
+
+.derecha{
+    right: 0;
+    position: absolute;
+    background-color: #ee695f;
+    width: 120px; 
+    height: 135px; 
+    object-fit: cover; 
+    object-position: -50% 0;
+}
+
+.back{
+    background-color: antiquewhite;
+}
+
+.carbut{
+    position: relative; 
+    left: 0px;
+}
+
+.precio{
+    background-color: #a3a3a3;
+}
